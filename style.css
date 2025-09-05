@@ -1,0 +1,31 @@
+body {
+color: rgb(243, 25, 10);
+background: rgb(27, 6, 117);
+margin:0px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header {
+border-buttom: solid 2px rgb(101, 33, 128)
+padding: 2px;
+font-size: 32px;
+color: rgb(221,108,108);
+}
+.chamada {
+background-color: rgb(5, 163, 255);
+padding-bottom: 80px;
+padding-top: 80px;
+display:flex;
+justify-content:center;
+}
+
+.chamada-texto{
+margin-right:5%;
+}
+
+h1{font-size: 40px;
+
+}
+p{font-size: 20;
+
+}
